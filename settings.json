@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Bearded Theme Monokai Metallian",
+    "workbench.iconTheme": "material-icon-theme",
+    "database-client.autoSync": true,
+    "editor.fontSize": 18,
+    "explorer.compactFolders": false,
+    "scm.compactFolders": false,
+    "editor.cursorBlinking": "expand",
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 2,
+    "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+    "aws.telemetry": false,
+    "amazonQ.telemetry": false
+}
